@@ -7,10 +7,10 @@ description: The SAM API is a RESTful method of retrieving public information ab
   on an entity-by-entity basis.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/53aa67a8-caec-11e3-9248-37414d200130.gif
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: System Award Management
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/system-award-management/master/_listings/system-award-management/apis.md
 specificationVersion: "0.14"
 apis:
